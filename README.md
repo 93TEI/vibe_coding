@@ -1,1 +1,1 @@
-# vide_coding
+from terminal
